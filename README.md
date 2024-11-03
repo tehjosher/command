@@ -1,1 +1,2 @@
 # command
+/script socommand()
